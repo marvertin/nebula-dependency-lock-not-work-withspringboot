@@ -1,0 +1,3 @@
+plugins {
+  id "nebula.dependency-lock" version "4.9.4"
+}
